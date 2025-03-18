@@ -36,7 +36,7 @@ B형
 
 ## 서치바 개발
 
-- search.md 추가
+- search.md 수정
 
 ## 푸터
 
