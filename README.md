@@ -34,6 +34,10 @@ B형
 
 - sidebar.md 추가
 
+## 서치바 개발
+
+- search.md 추가
+
 ## 푸터
 
 - footer.md 추가
